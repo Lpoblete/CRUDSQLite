@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">App_CRUDSQLite</string>
+
+    <string name="txtCodigo">Ingrese codigo</string>
+    <string name="txtDescripcion">Ingrese descripcion</string>
+    <string name="txtPrecio">Ingrese precio</string>
+
+    <string name="botonReg">Registrar producto</string>
+    <string name="botonBus">Buscar producto</string>
+    <string name="botonMod">Modificar producto</string>
+    <string name="botonEli">Eliminar producto</string>
+    <string name="botonLis">Listar productos</string>
+    <string name="botonVol">Volver</string>
+    <string name="titulo">Ingrese productos</string>
+
+</resources>
